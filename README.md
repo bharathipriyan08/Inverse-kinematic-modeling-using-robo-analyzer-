@@ -1,5 +1,6 @@
 # Inverse-kinematic-modeling-using-robo-analyzer-
-
+#NAME: BHARATHI PRIYAN.T
+#REG NO:212221040028
  
 ## AIM: 
 To analyze the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer and polt the graph of joint angle for a given  input end effector position .
